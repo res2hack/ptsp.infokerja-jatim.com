@@ -1,0 +1,1037 @@
+body {
+  background-color: rgb(3,29,104);
+  margin-top: 0px;
+  font-family: Calibri, Arial, Sans;
+}
+
+div.mainPanel {
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(255, 173, 0) !important;
+  /*background-color: white;*/
+  box-shadow: 0px 0px 24px black;
+}
+
+div.body{
+  display: block;
+}
+
+div.footer{
+  display: block;
+  height: 3em;
+  background-color: white;
+  clear: both;
+  text-align: center;
+  border-top: 1px solid #777;
+  border-bottom: 1px solid #666;
+  box-shadow: 2px 2px 4px #666;
+}
+
+div.header{
+  background-image: url('../img/header1.jpg');
+  background-color: blue;
+  display: block;
+  overflow: hidden;
+  height: 204px;
+}
+
+div.tab {
+  display: block;
+  margin-top: 172px;
+  height: 32px;
+  /*width: 660px;*/
+  padding-left: 55px;
+}
+
+a.tab, a.tab:visited{
+  color: rgb(141,32,16);
+  background-color: rgb(255, 173, 0);
+  
+  /* background-image: url('./images/tab-yellow.jpg'); */
+  background-position: 0px 0px;
+  text-decoration: none;
+  display: block;
+
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border: 1px solid rgb(141,32,16);
+  box-shadow: 0px 0px 2px rgb(141,32,16);
+  /*text-shadow: 0px 1px 0px white, 0px -1px 0 #000;*/
+
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-top: 6px;
+
+  height: 32px;
+  width: 130px;
+  text-align: center;
+
+  font-family: Calibri, Arial, Sans;
+  font-size: 100%;
+  font-weight: bold;
+  float: left;
+}
+
+a.tab:hover{
+  /*background-color: rgb(253,236,16);*/
+  background-image: url('../img/tab-yellow.jpg');
+  background-position: 0px -32px;
+  box-shadow: 0px 0px 4px rgb(141,32,16);
+}
+
+div.silverbar{
+  background-image: url('../img/silverbar.jpg');
+  background-repeat: repeat-x;
+  width: 100%;
+  height: 15px;
+  overflow: hidden;
+  display: block;
+  box-shadow: 0px 0px 6px #000;
+}
+
+div.leftPanel{
+  width: 168px;
+  padding: 0px 6px 0px 6px;
+  float: left;
+  display: block;
+}
+
+div.leftMenuPanel{
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: top, 0% -50%;
+}
+
+h1.leftPanel{
+  padding: 6px 6px 6px 6px;
+  color: rgb(255,255,255);
+  display: block;
+  /*background-color: rgb(26,92,172);*/
+  background-image: url('../img/radial-blue.jpg');
+  background-position: top center;
+  font-family: Calibri, Arial, Sans;
+  font-size: 90%;
+  overflow: hidden;
+  box-shadow: 1px 1px 2px black;
+
+  text-shadow: 0px -1px 1px #777, 0 1px 1px #000;
+  border-top-right-radius: 8px;
+
+  margin: 12px 0px 3px 0px;
+
+}
+
+div.leftPanel2{
+  width: 168px;
+  padding: 0px 6px 0px 6px;
+  float: left;
+  display: block;
+}
+h1.leftPanel2{
+  padding: 6px 6px 6px 6px;
+  color: rgb(255,255,255);
+  display: block;
+	background-color:#00B1B1;
+  background-position: top center;
+  font-family: Calibri, Arial, Sans;
+  font-size: 90%;
+  overflow: hidden;
+  box-shadow: 1px 1px 2px black;
+
+  text-shadow: 0px -1px 1px #777, 0 1px 1px #000;
+  border-top-right-radius: 8px;
+
+  margin: 12px 0px 3px 0px;
+
+}
+
+a.leftPanel, a.leftPanel:visited{
+  padding: 6px 6px 6px 6px;
+  /*background-color: rgb(126,179,238);*/
+  font-family: Calibri, Arial, Sans;
+  font-size: 80%;
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(26,92,172);
+
+  display: block;
+  margin-bottom: 3px;
+  box-shadow: 1px 1px 3px black;
+  border: 1px solid rgb(15, 65, 172);
+}
+
+a.leftPanel:hover{
+  background-color: rgb(76,144,227);
+  color: rgb(255,255,255);
+}
+
+div.subContent{
+  display: block;
+  width: 840px;
+  padding: 12px 3px 3px 0px;
+  overflow: hidden;
+  float: right;
+}
+
+div.imagePanel{
+  display: block;
+  background-color: white;
+	background-repeat: no-repeat;
+  width: 412px;
+  height: 305px;
+  overflow: hidden;
+  float: left;
+
+  border: 1px solid #777;
+  margin: 0px 3px 3px 5px;
+  box-shadow: 1px 1px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+
+  /*border-radius: 0px 10px 0px 10px;*/
+}
+
+div.headline{
+  display: block;
+  height: 305px;
+  width: 187px;
+  float: left;
+
+  border: 1px solid #777;
+  margin: 0px 3px 3px 3px;
+  box-shadow: 1px 1px 2px #777;
+
+  background-color: white;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+
+  border: 1px solid rgb(15, 65, 172);
+  box-shadow: 1px 1px 6px black;
+
+  overflow: hidden;
+}
+
+div.headline_content{
+	display: block;
+	height: 250px;
+	overflow: hidden;
+}
+
+div.headline_links{
+	padding: 1px 1px 1px 6px;
+	font-size: 80%;
+	display: block;
+	height: 16px;
+}
+
+a.headline, a.headline:visited{
+  display: block;
+  width: 175px;
+  /*height: 48px;*/
+  overflow: hidden;
+
+  margin-bottom: 3px;
+  padding: 3px 6px 3px 6px;
+
+  color: rgb(3,29,104);
+  font-family: Calibri, Arial, Sans;
+  font-size: 90%;
+  text-decoration: none;
+  box-shadow: 1px 1px 2px black;
+}
+
+a.headline:hover{
+  background-color: rgb(26,92,172);
+  color: rgb(255,255,255);
+}
+
+h1.headline{
+  color: rgb(0,0,0);
+  margin: 0px 0px 0px 0px;
+  font-family: Calibri, Arial, Sans;
+  font-size: 100%;
+}
+
+a.newsList, a.newsList:visited{
+  font-size: 90%;
+  padding: 2px 2px 2px 6px;
+  margin-bottom: 2px;
+  text-decoration: none;
+
+  /*width: 97%;*/
+  overflow: hidden;
+
+  display: block;
+  color: rgb(26,92,172)
+}
+
+a.newsList:hover{
+  background-color: rgb(26,92,172);
+  color: rgb(255,255,255);
+  /*border-radius: 0px 10px 0px 10px;*/
+  box-shadow: 0px 0px 4px #777;
+}
+
+h1.newsList{
+  margin: 0px 0px 0px 0px;
+  color: rgb(0,0,0);
+  font-size: 90%;
+ 
+}
+
+div.searchbar{
+  display:block;
+  width: 100%;
+  height:55px;
+  overflow: hidden;
+  background-image: url('../img/grad-blue.jpg');
+  background-position: top;
+  background-repeat: repeat-x;
+
+  padding: 6px 6px 6px 8px;
+}
+
+div.login{
+  display: block;
+  width: 209px;
+  height: 305px;
+  overflow: hidden;
+  border: 1px solid #777;
+  margin: 0px 6px 0px 3px;
+
+  box-shadow: 1px 1px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+
+  background-position: bottom;
+  background-repeat: repeat-x;
+  background-image: url('../img/grad-blue.jpg');
+  float: left;
+}
+
+h1.blueHeading{
+  margin: 0px 0px 0px 0px;
+  padding: 6px 6px 6px 6px;
+  /*background-color: rgb(26,92,172);*/
+  background-image: url('../img/radial-blue.jpg');
+  background-position: top center;
+  font-family: Calibri, Arial, Sans;
+  font-size: 110%;
+  text-align: center;
+  text-shadow: 0px -1px 1px #777, 0 1px 1px #000;
+  border: 1px solid rgb(26,96,172);
+
+  color: rgb(255,255,255);
+}
+
+h1.errorHeading{
+  margin: 0px 0px 0px 0px;
+  padding: 6px 6px 6px 6px;
+  background-color: rgb(141,46,59);
+  font-family: Calibri, Arial, Sans;
+  font-size: 110%;
+  text-align: center;
+  color: rgb(255,255,255);
+}
+
+div.triPanel{
+  display: block;
+  width: 267px;
+  height: 550px;
+  overflow: hidden;
+  float: left;
+
+  margin: 0px 5px 0px 5px;
+  background-color: white;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  box-shadow: 2px 2px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+
+  color: rgb(26,92,172)
+}
+div.triPanel2{
+  display: block;
+  width: 267px;
+  height: 550px;
+  overflow: hidden;
+  float: left;
+
+  margin: 0px 5px 0px 5px;
+  background-color: white;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  box-shadow: 2px 2px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+
+  color: rgb(26,92,172)
+}
+div.triPanel3{
+height:350px;
+}
+div.triPanelstat{
+  display: block;
+  width: 267px;
+  height: 140px;
+  overflow: hidden;
+  float: left;
+
+  margin: 7px 5px 0px 5px;
+  background-color: white;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  box-shadow: 2px 2px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+
+  color: rgb(26,92,172)
+}
+div.triPanel_content{
+	display:block;
+	height: 490px;
+	overflow:hidden;
+}
+
+div.triPanel_links{
+	display: block;
+	height: 16px;
+}
+
+div.half_tripanel_content{
+	display: block;
+	height: 200px;
+	overflow: hidden;
+}
+
+div.half_tripanel_links{
+	padding: 1px 1px 1px 6px;
+	font-size: 80%;
+	display: block;
+	height: 16px;
+}
+
+div.twoPanel{
+	display: block;
+  width: 406px;
+  height: 400px;
+  overflow: hidden;
+  float: left;
+
+  margin: 0px 6px 0px 6px;
+  background-color: white;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  box-shadow: 2px 2px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+}
+
+div.twoPanel_content{
+	display: block;
+	height: 324px;
+	overflow: scroll;
+}
+
+div.twoPanel_links{
+	display: block;
+	height: 16px;
+}
+
+div.onePanel{
+  display: block;
+  overflow: hidden;
+  margin: 0px 6px 0px 6px;
+  background-color: white;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  box-shadow: 2px 2px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+}
+
+a.esclink, a.esclink:visited{
+  text-decoration: none;
+	color: rgb(26,92,172);
+}
+
+a.esclink:hover{
+  text-decoration: underline;
+	color: rgb(26,92,172);
+}
+
+a.tbl_link, a.tbl_link:visited{
+  text-decoration: none;
+	color: rgb(0,0,0);
+}
+
+a.tbl_link:hover{
+  text-decoration: underline;
+	color: rgb(0,0,0);
+}
+
+a.pagination_links, a.pagination_links:visited{
+	text-decoration: none;
+}
+
+a.pagination_links:hover{
+	text-decoration: underline;
+}
+
+div.twothirdPanel{
+  display: block;
+  width: 548px;
+  height: 350px;
+  overflow: hidden;
+  float: left;
+
+  margin: 0px 5px 0px 5px;
+  background-color: white;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  box-shadow: 2px 2px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+}
+
+div.twothirdPanel_content{
+	height: 324px;
+	overflow: scroll;
+}
+
+div.twothirdPanel_links{
+	height: 16px;
+}
+
+h1.greenHeading{
+  margin: 6px 6px 6px 6px;
+  padding: 3px 3px 3px 3px;
+  font-family: Calibri, Arial, Sans;
+  font-size: 110%;
+  text-align: center;
+  text-shadow: 0px -1px 1px #777, 0 1px 1px #000;
+  color: rgb(255,255,255);
+
+  /*background-color: rgb(108,147,43);*/
+  background-image: url('../img/radial-green.jpg');
+  background-position: top center;
+
+  display: block;
+  border-radius: 8px 8px 8px 8px;
+  border: 1px solid rgb(108,147,43);
+}
+
+h1.yellowHeading{
+  margin: 6px 6px 6px 6px;
+  padding: 3px 3px 3px 3px;
+  font-family: Calibri, Arial, Sans;
+  font-size: 110%;
+  text-align: center;
+  text-shadow: 0px -1px 1px #777, 0 1px 1px #000;
+  color: rgb(255,255,255);
+
+  /*background-color: rgb(165,154,11);*/
+  background-image: url('../img/radial-yellow.jpg');
+  background-position: top center;
+
+  display: block;
+  border-radius: 8px 8px 8px 8px;
+  border: 1px solid rgb(165,154,11);
+}
+
+h1.purpleHeading{
+  margin: 6px 6px 6px 6px;
+  padding: 3px 3px 3px 3px;
+  font-family: Calibri, Arial, Sans;
+  font-size: 110%;
+  text-align: center;
+  text-shadow: 0px -1px 1px #777, 0 1px 1px #000;
+  color: rgb(255,255,255);
+  /*background-color: rgb(125,48,136);*/
+  background-image: url('../img/radial-purple.jpg');
+  background-position: top center;
+
+  display: block;
+  border-radius: 8px 8px 8px 8px;
+  border: 1px solid rgb(125,48,136);
+}
+
+h1.redHeading{
+  /* margin: 66px 6px 6px 6px; */
+  padding: 3px 3px 3px 3px;
+  font-family: Calibri, Arial, Sans;
+  font-size: 110%;
+  text-align: center;
+  text-shadow: 0px -1px 1px #777, 0 1px 1px #000;
+  color: rgb(255,255,255);
+
+  /*background-color: rgb(141,46,59);*/
+  background-image: url('../img/radial-red.jpg');
+  background-position: top center;
+
+  display: block;
+  border-radius: 8px 8px 8px 8px;
+  border: 1px solid rgb(141,46,59);
+  box-shadow: 0x 2px 5px #000;
+}
+
+a.goldButton, a.goldButton:visited{
+  display: block;
+  width: 130px;
+  height: 24px;
+
+  float: right;
+  margin: 3px 12px 3px 12px;
+  padding-top: 3px;
+
+  color: rgb(141,32,16);
+
+  /*background-color: rgb(246,175,2);*/
+  background-image: url('../img/tab-yellow.jpg');
+  background-position: 0px 0px;
+
+
+  border: 2px solid rgb(141,32,16);
+  box-shadow: 0px 0px 2px rgb(141,32,16);
+  border-radius: 10px 10px 10px 10px;
+
+  font-family: Calibri, Arial, Sans;
+  font-size: 110%;
+  font-weight: bold;
+
+  text-align: center;
+  text-decoration: none;
+}
+
+a.goldButton:hover{
+  box-shadow: 0px 0px 6px rgb(141,32,16);
+  /*background-color: rgb(141,32,16);*/
+  background-image: url('../img/tab-yellow.jpg');
+  background-position: 0px -32px;
+}
+
+a.gold_login, a.gold_login:visited{
+  display: block;
+  height: 22px;
+  margin: 6px 18px 3px 0px;
+  padding: 0px 9px 0px 9px;
+
+  color: rgb(141,32,16);
+  background-color: rgb(246,175,2);
+  box-shadow: 0px 0px 2px rgb(0,0,0);
+  border-radius: 5px 5px 5px 5px;
+
+  font-family: Calibri, Arial, Sans;
+  font-size: 100%;
+  font-weight: bold;
+
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid rgb(141,32,16);
+}
+
+a.gold_login:hover{
+  background-color: rgb(141,32,16);
+  color: rgb(246,175,2);
+  box-shadow: 0px 0px 6px rgb(0,0,0);
+}
+
+a.login_link, a.login_link:visited{
+  font-size: 85%;
+  text-decoration: none;
+}
+
+a.loginButton, a.loginButton:visited{
+  display: block;
+  height: 22px;
+  margin: 6px 6px 3px 0px;
+  padding: 0px 9px 0px 9px;
+
+  color: rgb(51,99,2);
+  background-color: rgb(171,224,0);
+  box-shadow: 0px 0px 2px rgb(0,0,0);
+  border-radius: 5px 5px 5px 5px;
+
+  font-size: 100%;
+  font-weight: bold;
+
+  text-align: center;
+  text-decoration: none;
+
+}
+
+a.loginButton:hover{
+  background-color: rgb(51,99,2);
+  color: rgb(171,224,0);
+  box-shadow: 0px 0px 6px rgb(0,0,0);
+}
+
+a.login_link, a.login_link:visited{
+  font-size: 85%;
+  text-decoration: none;
+}
+
+a.login_link:hover{
+  text-decoration: underline;
+}
+
+div.contentDetail{
+  width: 810px;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding: 12px 12px 24px 12px;
+  font-family: Calibri, Arial, Sans;
+  font-size: 90%;
+}
+
+/** BOXLIST **/
+
+div.boxlist{
+  display: block;
+  /*width: 268px;
+  height: 258px;*/
+  overflow: hidden;
+  float: left;
+
+  font-family: Calibri, Arial, Sans;
+  font-size: 90%;
+  color: rgb(26,92,172);
+
+  margin-top: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
+  background-image: url('./images/grad-blue.jpg');
+
+  /*background-color: rgb(210,228,249);  */
+  /*border-radius: 0px 5px 0px 5px;
+  box-shadow: 1px 1px 2px #777;*/
+}
+
+div.boxlist-head{
+  /*height: 48px;*/
+  overflow: hidden;
+  padding: 6px 6px 6px 6px;
+  background-color: rgb(26,92,172);
+  border-bottom: 1px solid rgb(26,92,172);
+  box-shadow: 1px 0px 6px #000; /*rgb(26,92,172);*/
+}
+
+div.boxlist-content{
+  padding: 3px 12px 6px 12px;
+  margin-bottom: 12px;
+  background-image: url('../img/grad-blue.jpg');
+  box-shadow: 1px 2px 2px #000; /*rgb(26,92,172);*/
+  border: 1px solid rgb(26,92,172);
+}
+
+h1.boxlist-content{
+  font-size:125%;
+  border-bottom: 1px solid rgb(26,92,172);
+}
+
+h1.boxlist{
+  display: block;
+  width: 100%;
+  height: 28px;
+  color: rgb(255,255,255);
+  margin: 0px 0px 0px 0px;
+  padding: 6px 6px 6px 24px;
+  background-color: rgb(26,92,172);
+  font-size: 125%;
+  box-shadow: 0px 0px 2px #000;
+}
+
+h2.boxlist{
+  color: rgb(255,255,255);
+  margin: 0px 0px 0px 0px;
+  padding: 0px 3px 0px 3px;
+  font-size: 80%;
+}
+
+h3.boxlist{
+  color: rgb(255,255,255);
+  margin: 0px 0px 0px 0px;
+  padding: 0px 3px 0px 3px;
+  font-size: 80%;
+  font-style: italic;
+}
+
+p.boxlist{
+  font-size: 80%;
+}
+
+a.boxlist, a.boxlist:visited{
+  font-size: 80%;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(141,46,59);
+  float: right;
+  margin-bottom: 6px;
+}
+
+a.boxlist:hover{
+  font-size: 80%;
+  text-decoration: underline;
+  font-weight: bold;
+  color: rgb(141,46,59);
+}
+
+div.reader_pane{
+  padding: 12px 36px 36px 36px;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  min-height: 1788px;
+  border: 1px solid rgb(26,96,172);
+}
+
+a.img_link{
+  display: block;
+  height: 51px;
+  width: 168px;
+  box-shadow: 1px 1px 3px black;
+  margin-bottom: 3px;
+}
+
+label.mainforms{
+  display: block;
+  width: 210px;
+  float: left;
+  clear: left;
+}
+
+input.mainforms{
+  display: block;
+  box-shadow: inset 0px 0px 3px black;
+  border: 1px solid #666;
+  height: 1.4em;
+}
+
+select.mainform{
+  display: block;
+}
+
+div.search_pane{
+  display: block;
+  width: 99%;
+  height: 32px;
+  border: 1px solid rgb(15, 65, 172);
+  box-shadow: inset 0px 0px 3px black;
+  padding: 12px 12px 12px 12px;
+}
+
+input.search_pane{
+  height: 24px;
+  width: 320px;
+  display: block;
+
+  padding-left: 6px;
+  box-shadow: inset 0px 0px 1px black;
+  border: 1px solid #666;
+  background-image: url("../img/search.jpg");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+dt.searchlist{
+  font-size: 80%;
+  padding: 6px 0px 0px 0px;
+}
+
+dd.searchlist{
+  margin-left: 0px;
+  margin-bottom: 12px;
+}
+
+a.searchlist, a.search:visited{
+  color: #031D68;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a.searchlist:hover{
+  color: #2D70C1;
+}
+
+span.error {
+	color: red;
+	font-weight: bold;
+}
+
+a.konsultasi, a.konsultasi:visited{
+	text-decoration: none;
+	color: rgb(26,92,172);
+}
+
+a.konsultasi:hover{
+	text-decoration: underline;
+	color: rgb(26,92,172);
+}
+
+p.konsultasi {
+	text-indent: -20px;
+	margin: 0px 0px 0px 20px;
+}
+
+ul.dinas{
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+li.dinas{
+	padding: 0px 6px 0px 24px;
+	display: inline;
+	margin-left: 0px;
+	background-image: url(../img/dot.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	font-size: 90%;
+}
+
+li.mitra{
+	padding: 0px 6px 0px 24px;
+	margin-left: 0px;
+	display: inline;
+	background-image: url("../img/dot.png");
+	background-repeat: no-repeat;
+	background-position: left;
+	font-size: 90%;
+	font-weight: bold;
+}
+
+div.mitraPanel{
+	display: block;
+  width: 406px;
+  height: 600px;
+  overflow: hidden;
+  float: left;
+
+  margin: 0px 6px 0px 6px;
+  background-color: white;
+  background-image: url('../img/grad-blue.jpg');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  box-shadow: 2px 2px 6px black;
+  border: 1px solid rgb(15, 65, 172);
+}
+
+
+.tanya{
+	color: #8F303D;
+	font-weight: bold;
+}
+
+.jawab{
+	color: #031D68;
+}
+
+
+/* for quicklinks */
+a.qlbutton, a.qlbutton:visited{
+  display: block;
+  width: 258px;
+  height: 64px;
+
+  float: left;
+  margin: 6px 6px 3px 6px;  
+
+  color: rgb(141,32,16);
+
+  /*background-color: rgb(246,175,2);*/
+  background-image: url('../img/ql-yellow.jpg');
+  background-position: 0px 0px;
+
+
+  /*border: 2px solid rgb(141,32,16);
+  box-shadow: 0px 0px 2px rgb(141,32,16);*/
+  border-radius: 10px 10px 10px 10px;
+
+  font-family: Calibri, Arial, Sans;
+  font-size: 80%;
+  font-weight: bold;
+
+  text-align: center;
+  text-decoration: none;
+}
+
+a.qlbutton:hover{
+  width: 256px;
+  height: 60px;
+  border: 2px solid rgb(141,32,16);
+  box-shadow: 0px 0px 6px rgb(141,32,16);
+  /*background-color: rgb(141,32,16);*/
+  background-image: url('../img/ql-yellow.jpg');
+  background-position: 0px -64px;
+}
+
+div.qlimage{
+  display: block;
+  float: left;
+  margin: 4px 2px 6px 6px;
+  padding-top: 4px;
+  background: rgb(255,255,255);
+  width: 52px;
+  height: 52px;
+  text-align: center;  
+  border-radius: 6px 6px 6px 6px;
+  box-shadow: 0px 0px 1px rgb(72,72,72);
+}
+
+div.qltext{
+  display: block;
+  clear: right;
+  font-size: 90%;
+  padding-top: 16px;
+}
+
+/*----- CSS Baru -----*/
+
+.quicklinks{
+
+width:100%;
+display:table-row;
+margin-right:5px;
+margin-left:5px;
+}
+.quicklinks ul{
+float:left;
+}
+.quicklinks ul li{
+/* width:223px;
+ */float:left;
+font-size:13px;
+font-weight:bold;
+list-style:square;
+margin-left:0px;
+
+color:#08298A;
+margin-right:20px;
+margin-bottom:10px !important;
+}
+.alamatquick{
+font-weight:normal !important;
+margin-bottom:15px;
+font-family:tahoma;
+font-size:11px;
+color:black;
+}
+.pengunjung{
+margin-left:10px;
+color:black;
+font-weight:bold;
+}
+
+.listpppk{display:table;margin-bottom:5px;margin-top:5px;}
+.listgambar{
+float:left;
+width:50px;
+height:40px;
+margin-left:5px;
+margin-right:5px;
+border:1px solid; 
+}
+.listgambar img{width:50px;height:40px;}

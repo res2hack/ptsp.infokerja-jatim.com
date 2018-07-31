@@ -1,0 +1,716 @@
+a:12:{s:6:"config";s:4676:"a:5:{s:10:"phpVersion";s:5:"7.2.2";s:10:"yiiVersion";s:8:"2.0.15.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.15.1";s:4:"name";s:24:"LTSA Disnaker Prov Jatim";s:7:"version";s:3:"1.0";s:8:"language";s:5:"en-US";s:14:"sourceLanguage";s:5:"en-US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:5:"7.2.2";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:19:{s:23:"nenad/yii2-widgets-base";a:3:{s:4:"name";s:23:"nenad/yii2-widgets-base";s:7:"version";s:7:"2.0.0.0";s:5:"alias";a:1:{s:6:"@nenad";s:65:"D:\web_project\ptsp.new\_protected\vendor/nenad/yii2-widgets-base";}}s:28:"nenad/yii2-password-strength";a:3:{s:4:"name";s:28:"nenad/yii2-password-strength";s:7:"version";s:7:"2.3.0.0";s:5:"alias";a:1:{s:23:"@nenad/passwordStrength";s:70:"D:\web_project\ptsp.new\_protected\vendor/nenad/yii2-password-strength";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.1.1.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:70:"D:\web_project\ptsp.new\_protected\vendor/yiisoft/yii2-swiftmailer/src";}}s:23:"mihaildev/yii2-ckeditor";a:3:{s:4:"name";s:23:"mihaildev/yii2-ckeditor";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:19:"@mihaildev/ckeditor";s:65:"D:\web_project\ptsp.new\_protected\vendor/mihaildev/yii2-ckeditor";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:66:"D:\web_project\ptsp.new\_protected\vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:68:"D:\web_project\ptsp.new\_protected\vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.13.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:60:"D:\web_project\ptsp.new\_protected\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:62:"D:\web_project\ptsp.new\_protected\vendor/yiisoft/yii2-gii/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:60:"D:\web_project\ptsp.new\_protected\vendor/yiisoft/yii2-faker";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:67:"D:\web_project\ptsp.new\_protected\vendor/kartik-v/yii2-krajee-base";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:73:"D:\web_project\ptsp.new\_protected\vendor/kartik-v/yii2-widget-datepicker";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/file";s:72:"D:\web_project\ptsp.new\_protected\vendor/kartik-v/yii2-widget-fileinput";}}s:28:"2amigos/yii2-ckeditor-widget";a:3:{s:4:"name";s:28:"2amigos/yii2-ckeditor-widget";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:19:"@dosamigos/ckeditor";s:74:"D:\web_project\ptsp.new\_protected\vendor/2amigos/yii2-ckeditor-widget/src";}}s:24:"rmrevin/yii2-fontawesome";a:3:{s:4:"name";s:24:"rmrevin/yii2-fontawesome";s:7:"version";s:8:"2.17.1.0";s:5:"alias";a:1:{s:24:"@rmrevin/yii/fontawesome";s:66:"D:\web_project\ptsp.new\_protected\vendor/rmrevin/yii2-fontawesome";}}s:18:"cebe/yii2-gravatar";a:3:{s:4:"name";s:18:"cebe/yii2-gravatar";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:14:"@cebe/gravatar";s:74:"D:\web_project\ptsp.new\_protected\vendor/cebe/yii2-gravatar/cebe/gravatar";}}s:25:"dmstr/yii2-adminlte-asset";a:3:{s:4:"name";s:25:"dmstr/yii2-adminlte-asset";s:7:"version";s:7:"2.1.0.0";s:5:"alias";a:1:{s:6:"@dmstr";s:67:"D:\web_project\ptsp.new\_protected\vendor/dmstr/yii2-adminlte-asset";}}s:16:"yiisoft/yii2-jui";a:3:{s:4:"name";s:16:"yiisoft/yii2-jui";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/jui";s:58:"D:\web_project\ptsp.new\_protected\vendor/yiisoft/yii2-jui";}}s:23:"mihaildev/yii2-elfinder";a:3:{s:4:"name";s:23:"mihaildev/yii2-elfinder";s:7:"version";s:7:"1.2.2.0";s:5:"alias";a:1:{s:19:"@mihaildev/elfinder";s:65:"D:\web_project\ptsp.new\_protected\vendor/mihaildev/yii2-elfinder";}}s:24:"kartik-v/yii2-dropdown-x";a:3:{s:4:"name";s:24:"kartik-v/yii2-dropdown-x";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/dropdown";s:66:"D:\web_project\ptsp.new\_protected\vendor/kartik-v/yii2-dropdown-x";}}}}";s:7:"request";s:5596:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:8:{s:6:"cookie";s:419:"HstCfa4046192=1532579915940; HstCmu4046192=1532579915940; c_ref_4046192=http%3A%2F%2F127.0.0.1%3A7777%2Fsites; PHPSESSID=d99m17ian0hfll801noqmr5ljs; HstCnv4046192=12; HstCns4046192=23; HstCla4046192=1532928921153; HstPn4046192=3; HstPt4046192=88; _csrf=30e2c74b4b68798af29ab25e68348a305bd7026601720c4ade2abb97441b39bca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22yPBEiAbq85TV0E1inqJ9qGLceBHj1-rZ%22%3B%7D";s:15:"accept-language";s:14:"en-US,en;q=0.9";s:15:"accept-encoding";s:13:"gzip, deflate";s:6:"accept";s:85:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8";s:10:"user-agent";s:153:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.60 (Edition Campaign 34)";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"connection";s:5:"close";s:4:"host";s:8:"ptsp.new";}s:15:"responseHeaders";a:9:{s:12:"X-Powered-By";s:9:"PHP/7.2.2";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:11:"X-Debug-Tag";s:13:"5b5ea83255370";s:16:"X-Debug-Duration";s:5:"1,501";s:12:"X-Debug-Link";s:37:"/debug/default/view?tag=5b5ea83255370";s:10:"Set-Cookie";s:190:"_csrf=639c86cadafdd6ed49d13fe390b8bbf140716514fee8621e9bdb51ca2c03b490a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22Ao-lrKsdAPEs1rgm9buQVwRjUy7F5kug%22%3B%7D; path=/; HttpOnly";}s:5:"route";s:15:"pencaker/create";s:6:"action";s:55:"frontend\controllers\PencakerController::actionCreate()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:40:{s:4:"PATH";s:518:"C:\Anaconda2;C:\Anaconda2\Library\mingw-w64\bin;C:\Anaconda2\Library\usr\bin;C:\Anaconda2\Library\bin;C:\Anaconda2\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;D:\wamp.net-1.0.5\bin\3-php_7.2.2_x64;C:\ProgramData\ComposerSetup\bin;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps";s:10:"SYSTEMROOT";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\Windows";s:21:"_FCGI_SHUTDOWN_EVENT_";s:4:"1496";s:11:"SCRIPT_NAME";s:10:"/index.php";s:11:"REQUEST_URI";s:16:"/pencaker/create";s:12:"QUERY_STRING";s:0:"";s:14:"REQUEST_METHOD";s:3:"GET";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:12:"REDIRECT_URL";s:16:"/pencaker/create";s:11:"REMOTE_PORT";s:5:"54779";s:15:"SCRIPT_FILENAME";s:33:"D:/web_project/ptsp.new/index.php";s:12:"SERVER_ADMIN";s:17:"admin@example.com";s:21:"CONTEXT_DOCUMENT_ROOT";s:23:"D:/web_project/ptsp.new";s:14:"CONTEXT_PREFIX";s:0:"";s:14:"REQUEST_SCHEME";s:4:"http";s:13:"DOCUMENT_ROOT";s:23:"D:/web_project/ptsp.new";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_NAME";s:8:"ptsp.new";s:15:"SERVER_SOFTWARE";s:52:"Apache/2.4.25 (Win64) OpenSSL/1.0.2k mod_fcgid/2.3.9";s:16:"SERVER_SIGNATURE";s:0:"";s:10:"SystemRoot";s:10:"C:\Windows";s:11:"HTTP_COOKIE";s:419:"HstCfa4046192=1532579915940; HstCmu4046192=1532579915940; c_ref_4046192=http%3A%2F%2F127.0.0.1%3A7777%2Fsites; PHPSESSID=d99m17ian0hfll801noqmr5ljs; HstCnv4046192=12; HstCns4046192=23; HstCla4046192=1532928921153; HstPn4046192=3; HstPt4046192=88; _csrf=30e2c74b4b68798af29ab25e68348a305bd7026601720c4ade2abb97441b39bca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22yPBEiAbq85TV0E1inqJ9qGLceBHj1-rZ%22%3B%7D";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.9";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:11:"HTTP_ACCEPT";s:85:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8";s:15:"HTTP_USER_AGENT";s:153:"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2952.60 (Edition Campaign 34)";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_CONNECTION";s:5:"close";s:9:"HTTP_HOST";s:8:"ptsp.new";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1532930097.228084;s:12:"REQUEST_TIME";i:1532930097;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:10:{s:13:"HstCfa4046192";s:13:"1532579915940";s:13:"HstCmu4046192";s:13:"1532579915940";s:13:"c_ref_4046192";s:27:"http://127.0.0.1:7777/sites";s:9:"PHPSESSID";s:26:"d99m17ian0hfll801noqmr5ljs";s:13:"HstCnv4046192";s:2:"12";s:13:"HstCns4046192";s:2:"23";s:13:"HstCla4046192";s:13:"1532928921153";s:12:"HstPn4046192";s:1:"3";s:12:"HstPt4046192";s:2:"88";s:5:"_csrf";s:130:"30e2c74b4b68798af29ab25e68348a305bd7026601720c4ade2abb97441b39bca:2:{i:0;s:5:"_csrf";i:1;s:32:"yPBEiAbq85TV0E1inqJ9qGLceBHj1-rZ";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:4:{s:7:"__flash";a:0:{}s:22:"__captcha/site/captcha";s:7:"faqoliv";s:27:"__captcha/site/captchacount";i:1;s:11:"__returnUrl";s:200:"/backend/elfinder/connect?path=image&_csrf=iOq9a1LACTizR3IXe-LiDifYE4T9mS-E2WE1Bn5uhgXkosQFYJNvUOsmNV8zspB0RJV_6bqsWLKOVnNDMCvWTQ%3D%3D&mimes%5B%5D=image&cmd=open&target=&init=1&tree=1&_=1532798508979";}}";s:3:"log";s:26137:"a:1:{s:8:"messages";a:40:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532930097.277473;i:4;a:0:{}i:5;i:2040000;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1532930097.277516;i:4;a:0:{}i:5;i:2041176;}i:2;a:6:{i:0;s:59:"Opening DB connection: mysql:host=localhost;dbname=ptsp_new";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1532930097.327933;i:4;a:0:{}i:5;i:3933496;}i:5;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532930097 AND `id`='d99m17ian0hfll801noqmr5ljs'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.33385;i:4;a:0:{}i:5;i:3947368;}i:8;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1532930098.335472;i:4;a:0:{}i:5;i:3943296;}i:9;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532930098.347174;i:4;a:0:{}i:5;i:4247688;}i:10;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1532930098.367955;i:4;a:0:{}i:5;i:4600872;}i:11;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1532930098.370382;i:4;a:0:{}i:5;i:4624888;}i:28;a:6:{i:0;s:34:"Route requested: 'pencaker/create'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1532930098.379335;i:4;a:0:{}i:5;i:4777296;}i:29;a:6:{i:0;s:29:"Route to run: pencaker/create";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1532930098.390272;i:4;a:0:{}i:5;i:4986272;}i:30;a:6:{i:0;s:71:"Running action: frontend\controllers\PencakerController::actionCreate()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1532930098.399557;i:4;a:0:{}i:5;i:5131200;}i:31;a:6:{i:0;s:90:"Rendering view file: D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1532930098.425248;i:4;a:1:{i:0;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:5760744;}i:32;a:6:{i:0;s:89:"Rendering view file: D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1532930098.43579;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6054776;}i:33;a:6:{i:0;s:25:"SELECT * FROM `ipk_agama`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.449649;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6303392;}i:36;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ipk_agama`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.453033;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6323016;}i:39;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_agama' AND kcu.table_name = 'ipk_agama'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.468056;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6355816;}i:42;a:6:{i:0;s:28:"SELECT * FROM `ipk_provinsi`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.473052;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6376536;}i:45;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_provinsi`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.474464;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6406704;}i:48;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_provinsi' AND kcu.table_name = 'ipk_provinsi'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.488111;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6420840;}i:51;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_pencaker`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.493114;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6447832;}i:54;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_pencaker' AND kcu.table_name = 'ipk_pencaker'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.514582;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6500448;}i:57;a:6:{i:0;s:57:"SELECT * FROM `ipk_kabupaten` WHERE `provinsi_id` IS NULL";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.523803;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6517936;}i:60;a:6:{i:0;s:58:"SELECT * FROM `ipk_kecamatan` WHERE `kabupaten_id` IS NULL";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.527051;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:32;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6541312;}i:63;a:6:{i:0;s:73:"SELECT * FROM `ipk_jenispddk` WHERE (`levels`='G') AND (`kode` != '4000')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.538679;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6653248;}i:66;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ipk_jenispddk`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.540817;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6670992;}i:69;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_jenispddk' AND kcu.table_name = 'ipk_jenispddk'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.565479;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6685528;}i:72;a:6:{i:0;s:29:"SELECT * FROM `negara_tujuan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.569321;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6705136;}i:75;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `negara_tujuan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.570582;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6719080;}i:78;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'negara_tujuan' AND kcu.table_name = 'negara_tujuan'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.578979;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6732336;}i:81;a:6:{i:0;s:23:"SELECT * FROM `jabatan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.581765;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6754544;}i:84;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `jabatan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.592876;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7430480;}i:87;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'jabatan' AND kcu.table_name = 'jabatan'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.600594;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7444600;}i:90;a:6:{i:0;s:87:"Rendering view file: D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1532930098.733486;i:4;a:1:{i:0;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7855688;}i:91;a:6:{i:0;s:63:"SELECT * FROM `web_info` WHERE `sts_tampil`=1 ORDER BY `urutan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.736165;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:29;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7905208;}i:94;a:6:{i:0;s:59:"SELECT * FROM `header` WHERE sts_tampil=1 ORDER BY `urutan`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.736999;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:35;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7911640;}i:97;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.748124;i:4;a:0:{}i:5;i:7882408;}i:100;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.760007;i:4;a:0:{}i:5;i:7891528;}i:103;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.762022;i:4;a:0:{}i:5;i:7897448;}i:106;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.77399;i:4;a:0:{}i:5;i:7905160;}i:109;a:6:{i:0;s:481:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__captcha/site/captcha|s:7:\"faqoliv\";__captcha/site/captchacount|i:1;__returnUrl|s:200:\"/backend/elfinder/connect?path=image&_csrf=iOq9a1LACTizR3IXe-LiDifYE4T9mS-E2WE1Bn5uhgXkosQFYJNvUOsmNV8zspB0RJV_6bqsWLKOVnNDMCvWTQ%3D%3D&mimes%5B%5D=image&cmd=open&target=&init=1&tree=1&_=1532798508979\";', 'd99m17ian0hfll801noqmr5ljs', 1532931538) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1532930098.777838;i:4;a:0:{}i:5;i:7914552;}}}";s:9:"profiling";s:46698:"a:3:{s:6:"memory";i:9093496;s:4:"time";d:1.5366051197052002;s:8:"messages";a:56:{i:3;a:6:{i:0;s:59:"Opening DB connection: mysql:host=localhost;dbname=ptsp_new";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1532930097.327976;i:4;a:0:{}i:5;i:3933872;}i:4;a:6:{i:0;s:59:"Opening DB connection: mysql:host=localhost;dbname=ptsp_new";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1532930098.333742;i:4;a:0:{}i:5;i:3949368;}i:6;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532930097 AND `id`='d99m17ian0hfll801noqmr5ljs'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.333946;i:4;a:0:{}i:5;i:3947984;}i:7;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532930097 AND `id`='d99m17ian0hfll801noqmr5ljs'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.33529;i:4;a:0:{}i:5;i:3949272;}i:34;a:6:{i:0;s:25:"SELECT * FROM `ipk_agama`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.449747;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6305496;}i:35;a:6:{i:0;s:25:"SELECT * FROM `ipk_agama`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.450765;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6310984;}i:37;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ipk_agama`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.453146;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6325136;}i:38;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ipk_agama`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.465345;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6329976;}i:40;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_agama' AND kcu.table_name = 'ipk_agama'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.468149;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6358920;}i:41;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_agama' AND kcu.table_name = 'ipk_agama'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.470701;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6361800;}i:43;a:6:{i:0;s:28:"SELECT * FROM `ipk_provinsi`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.473149;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6378640;}i:44;a:6:{i:0;s:28:"SELECT * FROM `ipk_provinsi`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.474243;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6401720;}i:46;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_provinsi`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.474529;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6408824;}i:47;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_provinsi`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.487415;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6416568;}i:49;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_provinsi' AND kcu.table_name = 'ipk_provinsi'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.488207;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6423944;}i:50;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_provinsi' AND kcu.table_name = 'ipk_provinsi'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.489907;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6426824;}i:52;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_pencaker`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.493233;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6449952;}i:53;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_pencaker`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.511009;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6535392;}i:55;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_pencaker' AND kcu.table_name = 'ipk_pencaker'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.514698;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6503552;}i:56;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_pencaker' AND kcu.table_name = 'ipk_pencaker'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.516366;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6506432;}i:58;a:6:{i:0;s:57:"SELECT * FROM `ipk_kabupaten` WHERE `provinsi_id` IS NULL";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.523915;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6520112;}i:59;a:6:{i:0;s:57:"SELECT * FROM `ipk_kabupaten` WHERE `provinsi_id` IS NULL";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.525137;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6522384;}i:61;a:6:{i:0;s:58:"SELECT * FROM `ipk_kecamatan` WHERE `kabupaten_id` IS NULL";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.527156;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:32;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6543488;}i:62;a:6:{i:0;s:58:"SELECT * FROM `ipk_kecamatan` WHERE `kabupaten_id` IS NULL";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.530113;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:32;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6545688;}i:64;a:6:{i:0;s:73:"SELECT * FROM `ipk_jenispddk` WHERE (`levels`='G') AND (`kode` != '4000')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.538777;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6655312;}i:65;a:6:{i:0;s:73:"SELECT * FROM `ipk_jenispddk` WHERE (`levels`='G') AND (`kode` != '4000')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.540388;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6667776;}i:67;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ipk_jenispddk`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.541062;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6673112;}i:68;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ipk_jenispddk`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.565008;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6681792;}i:70;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_jenispddk' AND kcu.table_name = 'ipk_jenispddk'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.565603;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6688632;}i:71;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_jenispddk' AND kcu.table_name = 'ipk_jenispddk'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.566763;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6691512;}i:73;a:6:{i:0;s:29:"SELECT * FROM `negara_tujuan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.569443;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6707240;}i:74;a:6:{i:0;s:29:"SELECT * FROM `negara_tujuan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.570387;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6714032;}i:76;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `negara_tujuan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.570647;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6721200;}i:77;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `negara_tujuan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.57865;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6727032;}i:79;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'negara_tujuan' AND kcu.table_name = 'negara_tujuan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.579055;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6735440;}i:80;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'negara_tujuan' AND kcu.table_name = 'negara_tujuan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.580103;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6738320;}i:82;a:6:{i:0;s:23:"SELECT * FROM `jabatan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.581834;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6756632;}i:83;a:6:{i:0;s:23:"SELECT * FROM `jabatan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.592607;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7425480;}i:85;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `jabatan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.592957;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7432600;}i:86;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `jabatan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.600171;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7440432;}i:88;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'jabatan' AND kcu.table_name = 'jabatan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.600686;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7447704;}i:89;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'jabatan' AND kcu.table_name = 'jabatan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.602731;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7450584;}i:92;a:6:{i:0;s:63:"SELECT * FROM `web_info` WHERE `sts_tampil`=1 ORDER BY `urutan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.736217;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:29;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7907080;}i:93;a:6:{i:0;s:63:"SELECT * FROM `web_info` WHERE `sts_tampil`=1 ORDER BY `urutan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.736863;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:29;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7911936;}i:95;a:6:{i:0;s:59:"SELECT * FROM `header` WHERE sts_tampil=1 ORDER BY `urutan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.737035;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:35;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7913440;}i:96;a:6:{i:0;s:59:"SELECT * FROM `header` WHERE sts_tampil=1 ORDER BY `urutan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.73757;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:35;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7916104;}i:98;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.748185;i:4;a:0:{}i:5;i:7882760;}i:99;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.759699;i:4;a:0:{}i:5;i:7887024;}i:101;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.760062;i:4;a:0:{}i:5;i:7892552;}i:102;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.761698;i:4;a:0:{}i:5;i:7893928;}i:104;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.762081;i:4;a:0:{}i:5;i:7901896;}i:105;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.773101;i:4;a:0:{}i:5;i:7906216;}i:107;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.774029;i:4;a:0:{}i:5;i:7906408;}i:108;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.774887;i:4;a:0:{}i:5;i:7908400;}i:110;a:6:{i:0;s:481:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__captcha/site/captcha|s:7:\"faqoliv\";__captcha/site/captchacount|i:1;__returnUrl|s:200:\"/backend/elfinder/connect?path=image&_csrf=iOq9a1LACTizR3IXe-LiDifYE4T9mS-E2WE1Bn5uhgXkosQFYJNvUOsmNV8zspB0RJV_6bqsWLKOVnNDMCvWTQ%3D%3D&mimes%5B%5D=image&cmd=open&target=&init=1&tree=1&_=1532798508979\";', 'd99m17ian0hfll801noqmr5ljs', 1532931538) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1532930098.777888;i:4;a:0:{}i:5;i:7915384;}i:111;a:6:{i:0;s:481:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__captcha/site/captcha|s:7:\"faqoliv\";__captcha/site/captchacount|i:1;__returnUrl|s:200:\"/backend/elfinder/connect?path=image&_csrf=iOq9a1LACTizR3IXe-LiDifYE4T9mS-E2WE1Bn5uhgXkosQFYJNvUOsmNV8zspB0RJV_6bqsWLKOVnNDMCvWTQ%3D%3D&mimes%5B%5D=image&cmd=open&target=&init=1&tree=1&_=1532798508979\";', 'd99m17ian0hfll801noqmr5ljs', 1532931538) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1532930098.780609;i:4;a:0:{}i:5;i:7916280;}}}";s:2:"db";s:46297:"a:1:{s:8:"messages";a:54:{i:6;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532930097 AND `id`='d99m17ian0hfll801noqmr5ljs'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.333946;i:4;a:0:{}i:5;i:3947984;}i:7;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1532930097 AND `id`='d99m17ian0hfll801noqmr5ljs'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.33529;i:4;a:0:{}i:5;i:3949272;}i:34;a:6:{i:0;s:25:"SELECT * FROM `ipk_agama`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.449747;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6305496;}i:35;a:6:{i:0;s:25:"SELECT * FROM `ipk_agama`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.450765;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6310984;}i:37;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ipk_agama`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.453146;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6325136;}i:38;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ipk_agama`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.465345;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6329976;}i:40;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_agama' AND kcu.table_name = 'ipk_agama'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.468149;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6358920;}i:41;a:6:{i:0;s:605:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_agama' AND kcu.table_name = 'ipk_agama'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.470701;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6361800;}i:43;a:6:{i:0;s:28:"SELECT * FROM `ipk_provinsi`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.473149;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6378640;}i:44;a:6:{i:0;s:28:"SELECT * FROM `ipk_provinsi`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.474243;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6401720;}i:46;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_provinsi`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.474529;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6408824;}i:47;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_provinsi`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.487415;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6416568;}i:49;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_provinsi' AND kcu.table_name = 'ipk_provinsi'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.488207;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6423944;}i:50;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_provinsi' AND kcu.table_name = 'ipk_provinsi'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.489907;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:28;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6426824;}i:52;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_pencaker`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.493233;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6449952;}i:53;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ipk_pencaker`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.511009;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6535392;}i:55;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_pencaker' AND kcu.table_name = 'ipk_pencaker'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.514698;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6503552;}i:56;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_pencaker' AND kcu.table_name = 'ipk_pencaker'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.516366;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6506432;}i:58;a:6:{i:0;s:57:"SELECT * FROM `ipk_kabupaten` WHERE `provinsi_id` IS NULL";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.523915;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6520112;}i:59;a:6:{i:0;s:57:"SELECT * FROM `ipk_kabupaten` WHERE `provinsi_id` IS NULL";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.525137;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:30;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6522384;}i:61;a:6:{i:0;s:58:"SELECT * FROM `ipk_kecamatan` WHERE `kabupaten_id` IS NULL";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.527156;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:32;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6543488;}i:62;a:6:{i:0;s:58:"SELECT * FROM `ipk_kecamatan` WHERE `kabupaten_id` IS NULL";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.530113;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:32;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6545688;}i:64;a:6:{i:0;s:73:"SELECT * FROM `ipk_jenispddk` WHERE (`levels`='G') AND (`kode` != '4000')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.538777;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6655312;}i:65;a:6:{i:0;s:73:"SELECT * FROM `ipk_jenispddk` WHERE (`levels`='G') AND (`kode` != '4000')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.540388;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6667776;}i:67;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ipk_jenispddk`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.541062;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6673112;}i:68;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ipk_jenispddk`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.565008;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6681792;}i:70;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_jenispddk' AND kcu.table_name = 'ipk_jenispddk'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.565603;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6688632;}i:71;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ipk_jenispddk' AND kcu.table_name = 'ipk_jenispddk'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.566763;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:40;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6691512;}i:73;a:6:{i:0;s:29:"SELECT * FROM `negara_tujuan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.569443;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6707240;}i:74;a:6:{i:0;s:29:"SELECT * FROM `negara_tujuan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.570387;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6714032;}i:76;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `negara_tujuan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.570647;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6721200;}i:77;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `negara_tujuan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.57865;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6727032;}i:79;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'negara_tujuan' AND kcu.table_name = 'negara_tujuan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.579055;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6735440;}i:80;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'negara_tujuan' AND kcu.table_name = 'negara_tujuan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.580103;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:46;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6738320;}i:82;a:6:{i:0;s:23:"SELECT * FROM `jabatan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.581834;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:6756632;}i:83;a:6:{i:0;s:23:"SELECT * FROM `jabatan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.592607;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7425480;}i:85;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `jabatan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.592957;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7432600;}i:86;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `jabatan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.600171;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7440432;}i:88;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'jabatan' AND kcu.table_name = 'jabatan'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.600686;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7447704;}i:89;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'jabatan' AND kcu.table_name = 'jabatan'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.602731;i:4;a:3:{i:0;a:5:{s:4:"file";s:68:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\_form.php";s:4:"line";i:48;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"D:\web_project\ptsp.new\_protected\frontend\views\pencaker\create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7450584;}i:92;a:6:{i:0;s:63:"SELECT * FROM `web_info` WHERE `sts_tampil`=1 ORDER BY `urutan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.736217;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:29;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7907080;}i:93;a:6:{i:0;s:63:"SELECT * FROM `web_info` WHERE `sts_tampil`=1 ORDER BY `urutan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.736863;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:29;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7911936;}i:95;a:6:{i:0;s:59:"SELECT * FROM `header` WHERE sts_tampil=1 ORDER BY `urutan`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.737035;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:35;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7913440;}i:96;a:6:{i:0;s:59:"SELECT * FROM `header` WHERE sts_tampil=1 ORDER BY `urutan`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.73757;i:4;a:2:{i:0;a:5:{s:4:"file";s:66:"D:\web_project\ptsp.new\_protected\frontend\views\layouts\main.php";s:4:"line";i:35;s:8:"function";s:3:"all";s:5:"class";s:12:"yii\db\Query";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"D:\web_project\ptsp.new\_protected\frontend\controllers\PencakerController.php";s:4:"line";i:170;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}i:5;i:7916104;}i:98;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.748185;i:4;a:0:{}i:5;i:7882760;}i:99;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.759699;i:4;a:0:{}i:5;i:7887024;}i:101;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.760062;i:4;a:0:{}i:5;i:7892552;}i:102;a:6:{i:0;s:601:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.761698;i:4;a:0:{}i:5;i:7893928;}i:104;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.762081;i:4;a:0:{}i:5;i:7901896;}i:105;a:6:{i:0;s:1939:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.773101;i:4;a:0:{}i:5;i:7906216;}i:107;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.774029;i:4;a:0:{}i:5;i:7906408;}i:108;a:6:{i:0;s:389:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1532930098.774887;i:4;a:0:{}i:5;i:7908400;}i:110;a:6:{i:0;s:481:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__captcha/site/captcha|s:7:\"faqoliv\";__captcha/site/captchacount|i:1;__returnUrl|s:200:\"/backend/elfinder/connect?path=image&_csrf=iOq9a1LACTizR3IXe-LiDifYE4T9mS-E2WE1Bn5uhgXkosQFYJNvUOsmNV8zspB0RJV_6bqsWLKOVnNDMCvWTQ%3D%3D&mimes%5B%5D=image&cmd=open&target=&init=1&tree=1&_=1532798508979\";', 'd99m17ian0hfll801noqmr5ljs', 1532931538) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1532930098.777888;i:4;a:0:{}i:5;i:7915384;}i:111;a:6:{i:0;s:481:"INSERT INTO `session` (`data`, `id`, `expire`) VALUES ('__flash|a:0:{}__captcha/site/captcha|s:7:\"faqoliv\";__captcha/site/captchacount|i:1;__returnUrl|s:200:\"/backend/elfinder/connect?path=image&_csrf=iOq9a1LACTizR3IXe-LiDifYE4T9mS-E2WE1Bn5uhgXkosQFYJNvUOsmNV8zspB0RJV_6bqsWLKOVnNDMCvWTQ%3D%3D&mimes%5B%5D=image&cmd=open&target=&init=1&tree=1&_=1532798508979\";', 'd99m17ian0hfll801noqmr5ljs', 1532931538) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1532930098.780609;i:4;a:0:{}i:5;i:7916280;}}}";s:6:"assets";s:5517:"a:12:{s:28:"yii\bootstrap\BootstrapAsset";a:9:{s:10:"sourcePath";s:62:"D:\web_project\ptsp.new\_protected/vendor\bower/bootstrap/dist";s:3:"css";a:0:{}s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\59608e53";s:7:"baseUrl";s:16:"/assets/59608e53";s:7:"depends";a:0:{}s:2:"js";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:30:"yii\validators\ValidationAsset";a:9:{s:10:"sourcePath";s:61:"D:\web_project\ptsp.new\_protected\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:17:"yii.validation.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\26c82d7d";s:7:"baseUrl";s:16:"/assets/26c82d7d";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:61:"D:\web_project\ptsp.new\_protected\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\26c82d7d";s:7:"baseUrl";s:16:"/assets/26c82d7d";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:59:"D:\web_project\ptsp.new\_protected/vendor\bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\2fbd3178";s:7:"baseUrl";s:16:"/assets/2fbd3178";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:27:"kartik\date\DatePickerAsset";a:9:{s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:2:"js";a:2:{i:0;s:26:"js/bootstrap-datepicker.js";i:1;s:19:"js/datepicker-kv.js";}s:3:"css";a:2:{i:0;s:29:"css/bootstrap-datepicker3.css";i:1;s:21:"css/datepicker-kv.css";}s:10:"sourcePath";s:80:"D:\web_project\ptsp.new\_protected\vendor\kartik-v\yii2-widget-datepicker/assets";s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\5a366700";s:7:"baseUrl";s:16:"/assets/5a366700";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:23:"kartik\base\WidgetAsset";a:9:{s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:2:"js";a:1:{i:0;s:16:"js/kv-widgets.js";}s:3:"css";a:1:{i:0;s:18:"css/kv-widgets.css";}s:10:"sourcePath";s:74:"D:\web_project\ptsp.new\_protected\vendor\kartik-v\yii2-krajee-base/assets";s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\f0653da5";s:7:"baseUrl";s:16:"/assets/f0653da5";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:25:"kartik\file\SortableAsset";a:9:{s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:2:"js";a:1:{i:0;s:22:"js/plugins/sortable.js";}s:3:"css";a:0:{}s:10:"sourcePath";s:70:"D:\web_project\ptsp.new\_protected/vendor/kartik-v/bootstrap-fileinput";s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\94490a43";s:7:"baseUrl";s:16:"/assets/94490a43";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:26:"kartik\file\DomPurifyAsset";a:9:{s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:2:"js";a:1:{i:0;s:20:"js/plugins/purify.js";}s:3:"css";a:0:{}s:10:"sourcePath";s:70:"D:\web_project\ptsp.new\_protected/vendor/kartik-v/bootstrap-fileinput";s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\94490a43";s:7:"baseUrl";s:16:"/assets/94490a43";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:26:"kartik\file\FileInputAsset";a:9:{s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:2:"js";a:1:{i:0;s:15:"js/fileinput.js";}s:3:"css";a:1:{i:0;s:17:"css/fileinput.css";}s:10:"sourcePath";s:70:"D:\web_project\ptsp.new\_protected/vendor/kartik-v/bootstrap-fileinput";s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\94490a43";s:7:"baseUrl";s:16:"/assets/94490a43";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:24:"yii\captcha\CaptchaAsset";a:9:{s:10:"sourcePath";s:61:"D:\web_project\ptsp.new\_protected\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:14:"yii.captcha.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\26c82d7d";s:7:"baseUrl";s:16:"/assets/26c82d7d";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:27:"yii\widgets\ActiveFormAsset";a:9:{s:10:"sourcePath";s:61:"D:\web_project\ptsp.new\_protected\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:17:"yii.activeForm.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:39:"D:\web_project\ptsp.new\assets\26c82d7d";s:7:"baseUrl";s:16:"/assets/26c82d7d";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:24:"frontend\assets\AppAsset";a:9:{s:8:"basePath";s:23:"D:/web_project/ptsp.new";s:7:"baseUrl";s:12:"/themes/ptsp";s:3:"css";a:8:{i:0;s:17:"css/bootstrap.css";i:1;s:13:"css/reset.css";i:2;s:23:"css/main-stylesheet.css";i:3;s:17:"css/shortcode.css";i:4;s:13:"css/fonts.css";i:5;s:14:"css/colors.css";i:6;s:13:"css/restu.css";i:7;s:12:"css/site.css";}s:2:"js";a:4:{i:0;s:29:"js/jssor.slider-26.5.2.min.js";i:1;s:21:"js/new_home_slider.js";i:2;s:19:"js/theme-scripts.js";i:3;s:15:"js/bootstrap.js";}s:7:"depends";a:2:{i:0;s:16:"yii\web\YiiAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:10:"sourcePath";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:91:"a:3:{s:5:"start";d:1532930097.245288;s:3:"end";d:1532930098.782869;s:6:"memory";i:9093496;}";s:4:"user";s:2:"N;";s:6:"router";s:3019:"a:1:{s:8:"messages";a:16:{i:12;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.378978;i:4;a:0:{}i:5;i:4765360;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379044;i:4;a:0:{}i:5;i:4766152;}i:14;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379074;i:4;a:0:{}i:5;i:4766984;}i:15;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.37909;i:4;a:0:{}i:5;i:4767768;}i:16;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379107;i:4;a:0:{}i:5;i:4768600;}i:17;a:6:{i:0;a:3:{s:4:"rule";s:9:"lowongan/";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379123;i:4;a:0:{}i:5;i:4770032;}i:18;a:6:{i:0;a:3:{s:4:"rule";s:7:"article";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379137;i:4;a:0:{}i:5;i:4770816;}i:19;a:6:{i:0;a:3:{s:4:"rule";s:13:"article/index";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379168;i:4;a:0:{}i:5;i:4771608;}i:20;a:6:{i:0;a:3:{s:4:"rule";s:14:"article/create";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379196;i:4;a:0:{}i:5;i:4772400;}i:21;a:6:{i:0;a:3:{s:4:"rule";s:21:"article/view/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379224;i:4;a:0:{}i:5;i:4773200;}i:22;a:6:{i:0;a:3:{s:4:"rule";s:23:"article/update/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.37924;i:4;a:0:{}i:5;i:4774000;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:23:"article/delete/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379255;i:4;a:0:{}i:5;i:4774800;}i:24;a:6:{i:0;a:3:{s:4:"rule";s:14:"article/<slug>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.37927;i:4;a:0:{}i:5;i:4775592;}i:25;a:6:{i:0;a:3:{s:4:"rule";s:15:"lowongan/<slug>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379285;i:4;a:0:{}i:5;i:4776384;}i:26;a:6:{i:0;a:3:{s:4:"rule";s:12:"defaultRoute";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379299;i:4;a:0:{}i:5;i:4777176;}i:27;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1532930098.379311;i:4;a:0:{}i:5;i:4777552;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5b5ea83255370";s:3:"url";s:31:"http://ptsp.new/pencaker/create";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:9:"127.0.0.1";s:4:"time";d:1532930097.228084;s:10:"statusCode";i:200;s:8:"sqlCount";i:27;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}
